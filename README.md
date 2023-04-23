@@ -39,6 +39,7 @@ Other revelant lists:
    - [cerebras/Cerebras-GPT](#cerebrascerebras-gpt)
    - [TavernAI/TavernAI](#tavernaitavernai)
    - [Cohee1207/SillyTavern](#cohee1207sillytavern)
+   - [Deyao/MiniGPT](#deyaominigpt)
 
 # The template
 
@@ -193,5 +194,11 @@ Tags: Full
 ## [Cohee1207/SillyTavern](https://github.com/Cohee1207/SillyTavern)
 
 SillyTavern is a fork of TavernAI 1.2.8 which is under more active development, and has added many major features. At this point they can be thought of as completely independent programs. On its own Tavern is useless, as it's just a user interface. You have to have access to an AI system backend that can act as the roleplay character. There are various supported backends: OpenAPI API (GPT), KoboldAI (either running locally or on Google Colab), and more.
+
+Tags: Full
+
+## [Deyao/MiniGPT](https://github.com/Vision-CAIR/MiniGPT-4)
+
+The pretrained MiniGPT-4 aligned with Vicuna-7B! The demo GPU memory consumption now can be as low as 12GB.
 
 Tags: Full
